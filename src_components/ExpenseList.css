@@ -1,0 +1,22 @@
+.expense-list-container {
+  background-color: #e9e9e9;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.expense-list-container h2 {
+  color: #333;
+}
+
+.expense-list-container ul {
+  list-style: none;
+  padding: 0;
+}
+
+.expense-list-container li {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 4px;
+}
