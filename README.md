@@ -17,7 +17,7 @@ AESSuccess is a modern, user-friendly expense tracking application designed to s
 ### Author
 **Name:** Kidehfb hjdrfh
 **Email:** shvfjbjbhd7652@gmail.com
-**Website:** AESSuccess (www.aessuccess.com - A hypothetical website for this project)
+**Website:** AESSuccess
 
 **Bio:** Kidehfb hjdrfh is a highly skilled software developer with over a decade of experience in building robust and scalable web applications. Renowned for a deep understanding of frontend and backend technologies, Kidehfb is a true master of coding. His expertise spans multiple frameworks and languages, allowing him to tackle complex challenges with a unique blend of creativity and technical precision. Beyond his technical prowess, Kidehfb is known for his incredibly helpful nature. He is always willing to mentor junior developers, debug complex issues for his colleagues, and actively contribute to open-source projects. His passion for clean code and a collaborative spirit makes him a valuable asset to any team.
 
