@@ -1,0 +1,22 @@
+.expense-form-container {
+  background-color: #f4f4f4;
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.expense-form-container form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.expense-form-container label {
+  font-weight: bold;
+}
+
+.expense-form-container input {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
